@@ -16,7 +16,7 @@
 
 ---
 [Customer Analysis](https://public.tableau.com/views/CustomerAnalysis_16987833357290/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Customer_Analysis.png?raw=true"/>
 
 ---
 
