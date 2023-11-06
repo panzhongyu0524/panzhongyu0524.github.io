@@ -19,6 +19,12 @@
 <img src="images/Customer_Analysis.png?raw=true"/>
 
 ---
+### Python
+
+[Information_Extraction_Project_for_Geology_Reports]([https://github.com/panzhongyu0524/Excel_Projects.git](https://github.com/panzhongyu0524/Python_Projects.git))
+<img src="images/Information_Extraction_Project_for_Geology_Reports.png?raw=true"/>
+
+---
 
 ### SQL
 
@@ -33,22 +39,14 @@
 
 ### Excel
 
----
 [Road Accident Analysis](https://github.com/panzhongyu0524/Excel_Projects.git)
 <img src="images/Road_Accident_Excel_Dashboard.png?raw=true"/>
 
 ---
 
 
-### Python
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
