@@ -21,7 +21,7 @@
 ---
 ### Python
 
-[Information_Extraction_Project_for_Geology_Reports]([https://github.com/panzhongyu0524/Excel_Projects.git](https://github.com/panzhongyu0524/Python_Projects.git))
+[Information_Extraction_Project_for_Geology_Reports](https://github.com/panzhongyu0524/Python_Projects.git)
 <img src="images/Information_Extraction_Project_for_Geology_Reports.png?raw=true"/>
 
 ---
