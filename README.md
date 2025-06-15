@@ -64,6 +64,8 @@ To view a live example, **[click here](https://varadbhogayata.github.io/)**
 
 - **Build your code** 🔨🔨🔨
 
+- To start localhost locally, use this git command `python3 -m http.server 8000`
+
 #### Step 3
 
 - 🔃 Create a new pull request.
